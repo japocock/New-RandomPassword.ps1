@@ -21,4 +21,4 @@ japocock (https://github.com/japocock/)
 See: https://docs.microsoft.com/en-us/dotnet/api/system.web.security.membership.generatepassword?view=netframework-4.7.2
 
 ## Change Log
-V1.00, 12/02/2019 - Initial version
+V1.00, 12/02/2019 - Initial version.
